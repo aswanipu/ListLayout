@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListSample.View.SpeakerView">
+    <ContentPage.Content>
+        <StackLayout Padding="10" Spacing="10">
+            <Label Text="Xamarin Listview "  FontSize="Large"/>
+            <ListView x:Name="listSpeakers" ItemsSource="{Binding Speakers}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                      <!-- <TextCell Text="{Binding Topic}" TextColor="Green"
+                                  Detail="{Binding SpeakerName}" DetailColor="Gray">
+                            
+                        </TextCell>-->
+                      <!--  <ImageCell Text="{Binding Topic}" TextColor="Green"
+                                  Detail="{Binding SpeakerName}" DetailColor="Gray"
+                                   ImageSource="{Binding ImgUrl}">
+                            
+                        </ImageCell>-->
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Padding="10">
+                                    <Label Text="{Binding Topic}" FontSize="Medium"></Label>
+                                    <Image Source="{Binding ImgUrl}" WidthRequest="150" HeightRequest="150"></Image>
+                                    <Label Text="{Binding SpeakerName}" FontSize="Small"></Label>
+                                    <Label Text="{Binding ShortDescription}" FontSize="Small"></Label>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

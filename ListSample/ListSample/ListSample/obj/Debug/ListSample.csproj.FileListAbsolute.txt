@@ -1,0 +1,16 @@
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\ListSample.dll
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\ListSample.pdb
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.csprojResolveAssemblyReference.cache
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.MainPage.xaml.g.cs
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.App.xaml.g.cs
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.View.SpeakerView.xaml.g.cs
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.dll
+C:\Users\Aswani\Documents\Visual Studio 2017\Projects\ListSample\ListSample\ListSample\obj\Debug\ListSample.pdb
